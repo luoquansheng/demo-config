@@ -1,1 +1,1 @@
-# demo-config
+# ly-config
